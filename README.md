@@ -1,2 +1,2 @@
 # wiez-pizzaria
-Projeto em Node.js e React de uma pizzaria
+Projeto em Next.js, Node.js e React de uma pizzaria
